@@ -1,0 +1,7 @@
+{
+    "Reset Password Notification" : "Solicitação para alterar senha.",
+    "You are receiving this email because we received a password reset request for your account." : "Você está recebendo este e-mail pois solicitou uma alteração de senha na nossa plataforma IALPR.",
+    "Reset Password" : "Alterar senha",
+    "This password reset link will expire in :count minutes." : "Este link para alterar a sua senha expira em :count minutos.",
+    "If you did not request a password reset, no further action is required." : "Se você não solicitou nenhuma alteração de senha, nenhuma ação é requerida."
+}
